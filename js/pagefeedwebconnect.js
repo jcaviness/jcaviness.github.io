@@ -1,7 +1,7 @@
 
-        var APP_ID = '<YOUR APP ID>'; //Facebook APP ID
+        var APP_ID = '114363109207490'; //Facebook APP ID
         var LIMIT = 250; //Number of records to bring back at any time
-        var BASEURL = '<YOUR SERVER NAME>/facebooksearch/' //base url of virtual directory
+        var BASEURL = 'https://github.com/jcaviness/jcaviness.github.io/facebooksearch/' //base url of virtual directory
 
         window.fbAsyncInit = function() {
             FB.init({
